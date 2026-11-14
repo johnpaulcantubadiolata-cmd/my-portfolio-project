@@ -130,3 +130,7 @@ Security: the project management section has no login (classroom demo). On a pub
 
 ## 14. Testing status
 Checked offline: Node syntax check of all server files, `npm test` (input validation and database-error mapping), and `.gitignore` behavior with Git. NOT yet run by the author of this README: MySQL connection, Prisma migrations, the API routes against a real database, and the React screens. Follow sections 7 to 10 and confirm each step yourself.
+## Portfolio Features
+- Personal Profile
+- Technical Skills
+- Projects Showcase
